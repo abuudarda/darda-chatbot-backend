@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+PyPDF2
+faiss-cpu
+sentence-transformers==4.1.0
+google-generativeai
+python-multipart
