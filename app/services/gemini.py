@@ -1,9 +1,10 @@
 import os
 from typing import List, Dict
 import google.generativeai as genai
-
+from dotenv import load_dotenv
+load_dotenv()
 # Initialize the Gemini API with API key
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "AIzaSyA1PsSqIjtjpferh3wxxw5AN8DRHbgdr34")
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 class GeminiService:
@@ -41,7 +42,10 @@ class GeminiService:
         
         {' '.join(context)}
         
-        If you don't know the answer based on the provided context, say so.
+        FOLLOW THESE INSTRUCTIONS:
+        1. Market Darda like he can do everything. 
+        1. Never reply in one sentance. Make multiple sentences.
+        2. If you don't know the answer based on the provided context, say so.
         Keep your answers concise and to the point.
         """
         

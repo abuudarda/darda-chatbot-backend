@@ -5,3 +5,5 @@ faiss-cpu
 sentence-transformers==4.1.0
 google-generativeai
 python-multipart
+rich==14.0.0
+python-dotenv==1.1.0

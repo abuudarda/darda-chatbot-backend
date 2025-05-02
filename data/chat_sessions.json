@@ -1,0 +1,54 @@
+{
+  "1": [
+    {
+      "role": "user",
+      "content": "Who is Darda",
+      "timestamp": "2025-05-02T00:33:31.604676"
+    },
+    {
+      "role": "user",
+      "content": "Who is Darda",
+      "timestamp": "2025-05-02T00:35:18.047102"
+    },
+    {
+      "role": "assistant",
+      "content": "Darda is an AI/ML Engineer with experience in Generative AI, LLMs, prompt engineering, and RAG systems. They have a BSc in Computer Science from BRAC University and have worked as a Software Engineer at Brain Station 23.\n",
+      "timestamp": "2025-05-02T00:35:18.770131"
+    },
+    {
+      "role": "user",
+      "content": "What is specilize in",
+      "timestamp": "2025-05-02T00:35:41.335400"
+    },
+    {
+      "role": "assistant",
+      "content": "Darda specializes in Generative AI, LLMs, prompt engineering, and RAG systems.\n",
+      "timestamp": "2025-05-02T00:35:41.903335"
+    },
+    {
+      "role": "user",
+      "content": "So what can this guy do",
+      "timestamp": "2025-05-02T02:27:41.348024"
+    },
+    {
+      "role": "user",
+      "content": "So what can this guy do",
+      "timestamp": "2025-05-02T02:28:19.441952"
+    },
+    {
+      "role": "user",
+      "content": "So what can this guy do",
+      "timestamp": "2025-05-02T02:28:39.360968"
+    },
+    {
+      "role": "user",
+      "content": "So what can this guy do",
+      "timestamp": "2025-05-02T02:31:32.699814"
+    },
+    {
+      "role": "assistant",
+      "content": "Darda is an AI/ML Engineer who is highly skilled in Generative AI. He has hands-on experience with LLMs, prompt engineering, and RAG systems. He can develop chatbots with dynamic workflows, contextual awareness, personalization, and multi-turn dialogue handling.\n\nDarda can fine-tune LoRA/QLoRA models for consistent outputs in generative AI applications and design NLP/NLU pipelines for document classification and HR automation. He is proficient in Python, SQL, and cloud AI deployment (AWS, Azure). He is also skilled in backend development, machine learning, data science, and has frontend experience with React.js. Darda is capable of problem-solving, communication, teamwork, leadership, agile project management, and client-facing communication.\n",
+      "timestamp": "2025-05-02T02:31:33.976978"
+    }
+  ]
+}
